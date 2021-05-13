@@ -9,4 +9,4 @@ git push
 ```
 
 
-readme was bult using [ReaMe Guilde]
+This readme was built using [ReadMe Guide](https://github.com/TariqKarimi/CNE-310-git-repository
